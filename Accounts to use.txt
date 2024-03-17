@@ -1,0 +1,7 @@
+      ACCOUNT HOLDERS
+
+    name:                                   pin:       balance:
+       
+      Arryan Patel     : Account('1452', 150000),
+        Aditi Naik        : Account('1662', 130000),
+        Alex Smith       : Account('1256', 140000)
